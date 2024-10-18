@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidparktieto, CTO@tietoevrybanking
-- 👀 I’m interested in Financial Fervices, Banking, IoT, Telecoms, Security, Resiliance, Compliance
+- 👀 I’m interested in Financial Services, Banking, IoT, Telecoms, Security, Resiliance, Compliance
 - 🌱 I’m currently learning Azure, AWS, Python, rpi, arduino...
 - 💞️ I’m looking to collaborate on Public Cloud projects
 - 📫 How to reach me: via linked-in, whatsapp, if you know the numbers
