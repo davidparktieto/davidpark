@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidparktieto, CTO@tietoevrybanking
 - 👀 I’m interested in Financial Services, Banking, IoT, Telecoms, Security, Resiliance, Compliance
-- 🌱 I’m currently learning many things but here area few: Azure; AWS; Python; rpi; arduino...
+- 🌱 I’m currently learning many things but here are a few: Azure; AWS; Python; rpi; arduino...
 - 💞️ I’m looking to collaborate on Public Cloud projects & Banking Modernisation
 - 📫 How to reach me: via linked-in, whatsapp, if you know the numbers
 - 😄 Pronouns: he/him
